@@ -42,7 +42,5 @@ Key Features
 
     Buttons aligned neatly at the center with consistent sizing.
 
-
-
-************************************Used actions to test it in various environments*********************************************  
-Pro-tip: Keep the word file closed while conversion 
+ 
+*Pro-tip: Keep the word file closed while conversion 
