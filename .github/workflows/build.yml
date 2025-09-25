@@ -34,7 +34,7 @@ jobs:
 
       - name: Build executable
         run: |
-          pyinstaller --onefile --noconsole --clean --collect-all docxcompose res2.py
+          pyinstaller --onefile --noconsole --clean --collect-all docxcompose pdf2word.py
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
