@@ -1,0 +1,14 @@
+# Ignore PyInstaller build outputs
+/build/
+/dist/
+/*.spec
+
+# Python caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual envs
+.venv/
+env/
