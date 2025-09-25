@@ -1,8 +1,6 @@
 # pdf2word
 PDF to Word Converter
 
-The .exe file is included in the dist for windows devices. 
-
 This project is a lightweight document management utility that makes it easy to open/edit Word documents, manage multiple PDFs as appendices, reorder them visually, and convert/export the final output in a clean and intuitive interface.
 
 Key Features
@@ -42,10 +40,6 @@ Key Features
     Buttons aligned neatly at the center with consistent sizing.
 
 
-For mac devices, to generate the exe file, follow the below steps:
-  => Clone the repo
-  => pip install pyinstaller
-  => pyinstaller --onefile --noconsole --clean --collect-all docxcompose .\res2.py 
-  => You’ll get a .app (mac application bundle) or a binary in dist/.
-  
+
+************************************Use actions to test it in various environments.*********************************************  
 
