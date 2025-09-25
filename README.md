@@ -41,5 +41,5 @@ Key Features
 
 
 
-************************************Use actions to test it in various environments.*********************************************  
-
+************************************Used actions to test it in various environments*********************************************  
+Pro-tip: Keep the word file closed while conversion 
