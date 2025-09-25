@@ -4,7 +4,7 @@ PDF to Word Converter
 <img width="752" height="536" alt="github-img" src="https://github.com/user-attachments/assets/d5302dfb-46e8-4d7e-b33d-0bc520739cae" />
 
 
-This project is a lightweight document management utility that makes it easy to open/edit Word documents, manage multiple PDFs as appendices, reorder them visually, and convert/export the final output in a clean and intuitive interface.
+This project is a lightweight document management utility that makes it easy to open/edit Word documents, manage multiple PDFs as appendices, reorder them visually, and convert/export the appendices into a clean and intuitive .docx file as final output.
 
 Key Features
 
